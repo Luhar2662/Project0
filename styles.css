@@ -1,0 +1,14 @@
+#masterList {
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+}
+
+ul ul {
+  color: royalBlue;
+}
+
+ul ol {
+  color: royalBlue;
+}
+
+/*# sourceMappingURL=styles.css.map */

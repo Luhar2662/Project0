@@ -1,0 +1,22 @@
+$mainColor: royalBlue;
+
+%textTemp{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+#masterList {
+    @extend %textTemp;
+}
+
+ul{
+    ul{
+        color: $mainColor;
+    }
+}
+
+ul{
+    ol{
+        color: $mainColor;
+    }
+}
